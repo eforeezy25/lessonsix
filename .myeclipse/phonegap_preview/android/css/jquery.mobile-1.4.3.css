@@ -1467,6 +1467,7 @@ div.ui-mobile-viewport {
 .ui-header:empty,
 .ui-footer:empty {
 	min-height: 2.6875em;
+    background-color:red;
 }
 .ui-header .ui-title,
 .ui-footer .ui-title {
@@ -1489,6 +1490,7 @@ div.ui-mobile-viewport {
 	overflow: visible;
 	overflow-x: hidden;
 	padding: 1em;
+	background-color:#ffff3c;
 }
 /* Corner styling for dialogs and popups */
 .ui-corner-all > .ui-header:first-child,
